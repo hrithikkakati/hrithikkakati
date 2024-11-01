@@ -4,4 +4,4 @@
 B.Sc Statistics
 
 ### Projects
-- [Marketing campaign](#marketing-campaign )(#logisticregression.py)
+- [Marketing campaign](#marketing-campaign )(#logistic-regression.py)
